@@ -10,4 +10,4 @@ def test_example():
 
 
 def test_example1():
-    print("suhas")
+    print("suh")
